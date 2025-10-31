@@ -176,6 +176,13 @@ cython_debug/
 
 #movie metadata
 movies_metadata.csv
+credits.csv
+keywords.csv
+links.csv
+links_small.csv
+ratings.csv
+tags.csv
+ratings_small.csv
 
 #metadata macos finder
 .DS_Store
