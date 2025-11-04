@@ -1,0 +1,19 @@
+
+CleverMiner task processing summary:
+
+Task type : 4ftMiner
+Number of verifications : 39
+Number of rules : 5
+Total time needed : 00h 00m 00s
+Time of data preparation : 00h 00m 00s
+Time of rule mining : 00h 00m 00s
+
+
+List of rules:
+RULEID BASE  CONF  AAD    Rule
+     1   912 0.472 +0.495 genres_list(Animation) => Rating_cat(High) | ---
+     2  2031 0.517 +0.638 genres_list(Documentary) => Rating_cat(High) | ---
+     3   668 0.478 +0.515 genres_list(History) => Rating_cat(High) | ---
+     4   674 0.422 +0.338 genres_list(Music) => Rating_cat(High) | ---
+     5   561 0.424 +0.345 genres_list(War) => Rating_cat(High) | ---
+
